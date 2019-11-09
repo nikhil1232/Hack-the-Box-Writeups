@@ -2,6 +2,8 @@
 
 Here are the writeups of the few Hack The Box machines that I have solved.
 
+Jarvis:   https://theblocksec.com/2019/11/09/hack-the-box-jarvis-writeup-by-nikhil-sahoo/
+
 Haystack: https://theblocksec.com/2019/11/02/hack-the-box-haystack-box-writeup-by-nikhil-sahoo/
 
 Writeup:  https://theblocksec.com/2019/10/12/hack-the-box-writeup-box-walkthrough/
