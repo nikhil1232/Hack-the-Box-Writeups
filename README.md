@@ -1,5 +1,7 @@
 # Hack-the-Box-Writeups
 
+## Here's my Blog: https://theblocksec.com
+
 Here are the writeups of the few Hack The Box machines that I have solved.
 
 Wall: https://theblocksec.com/2019/12/07/hack-the-box-wall-box-writeup-by-nikhil-sahoo/
