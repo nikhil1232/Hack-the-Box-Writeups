@@ -4,6 +4,10 @@
 
 Here are the writeups of the few Hack The Box machines that I have solved.
 
+Traverxec: https://theblocksec.com/2020/04/11/hack-the-box-traverxec-box-writeup-by-nikhil-sahoo/
+
+Postman: https://theblocksec.com/2020/03/14/hack-the-box-postman-box-writeup-by-nikhil-sahoo/
+
 Wall: https://theblocksec.com/2019/12/07/hack-the-box-wall-box-writeup-by-nikhil-sahoo/
 
 Heist: https://theblocksec.com/2019/11/30/hack-the-box-heist-writeup-by-nikhil-sahoo/
