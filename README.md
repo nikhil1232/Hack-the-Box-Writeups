@@ -4,6 +4,10 @@
 
 Here are the writeups of the few Hack The Box machines that I have solved.
 
+OpenAdmin: https://theblocksec.com/2020/05/02/hack-the-box-openadmin-box-writeup-by-nikhil-sahoo/
+
+Mango: https://theblocksec.com/2020/04/18/hack-the-box-mango-box-writeup-by-nikhil-sahoo/
+
 Traverxec: https://theblocksec.com/2020/04/11/hack-the-box-traverxec-box-writeup-by-nikhil-sahoo/
 
 Postman: https://theblocksec.com/2020/03/14/hack-the-box-postman-box-writeup-by-nikhil-sahoo/
