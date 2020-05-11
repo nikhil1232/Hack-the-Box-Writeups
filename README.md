@@ -4,6 +4,8 @@
 
 Here are the writeups of the few Hack The Box machines that I have solved.
 
+Obscurity: https://theblocksec.com/2020/05/09/hack-the-box-obscurity-box-writeup-by-nikhil-sahoo/
+
 OpenAdmin: https://theblocksec.com/2020/05/02/hack-the-box-openadmin-box-writeup-by-nikhil-sahoo/
 
 Mango: https://theblocksec.com/2020/04/18/hack-the-box-mango-box-writeup-by-nikhil-sahoo/
